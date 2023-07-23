@@ -1,2 +1,2 @@
-# thesis
+# Inoli thesis
 PhD Thesis
