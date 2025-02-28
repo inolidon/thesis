@@ -18,6 +18,8 @@ Output Files (saved in hgt_analyses/data):
 metadata_m4efad.RData – Processed metadata file with standardized column names.
 hgt_df_m4efad.RData – Reformatted HGT dataframe, aligning column names (e.g., Seq_ID → Participant_ID).
 sample_subsets.RData – Subset of samples categorized by nutritional status and timepoints.
+
+
 Script 2: 2_hgt_patterns_m4efad.R
 
 Purpose:
@@ -32,6 +34,8 @@ Plot saving via ggsave() is currently commented out—modify as needed.
 Output Files:
 
 Processed data outputs are stored in hgt_analyses/data for use in the next script.
+
+
 Script 3: 3_species_roles_m4efad.R
 
 Purpose:
